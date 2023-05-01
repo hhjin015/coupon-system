@@ -12,3 +12,8 @@
   - di
 - component scan
 - springBootApplication
+- spring architecture
+  - mvc & layered
+  - dto mapping strategy
+    - strict convert
+    - no layer
