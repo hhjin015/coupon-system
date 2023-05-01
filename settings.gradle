@@ -1,7 +1,4 @@
 rootProject.name = 'coupon-system'
 
-include 'practice:step0-oop'
-include 'practice:step1-bean'
-include 'practice:step2-servlet'
 include 'server'
 
